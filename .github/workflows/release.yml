@@ -32,5 +32,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: C3B89q8CwfhszNluTBIlACXZ
+          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           TURB0_TEAM: eduardoarad
