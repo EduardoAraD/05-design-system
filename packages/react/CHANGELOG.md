@@ -1,5 +1,11 @@
 # @eduardoarad-ignite-ui/react
 
+## 2.0.1
+
+### Patch Changes
+
+- Add options to pass reference to Textinput and adjust some styles
+
 ## 2.0.0
 
 ### Major Changes
